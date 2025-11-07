@@ -3,7 +3,7 @@ Repository showcasing my Salesforce Administrator Virtual Internship achievement
 
 ## 🎓 Certificate of Completion  
 **Date:** May 19, 2023  
-**Awarded To:** **Kommineni Rekha Chowdary (Chinna)**  
+**Awarded To:** **Kommineni Rekha Chowdary **  
 
 ---
 
